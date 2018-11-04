@@ -17,7 +17,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: ru.boostbrain:logic:ejb:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="logic" />
     <orderEntry type="module" module-name="view" />
   </component>
 </module>
